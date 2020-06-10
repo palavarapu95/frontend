@@ -46,7 +46,6 @@ if(get_magic_quotes_gpc()) {
 
 //$address = "example@themeforest.net";
 $address = "saigirish.221@live.com";
-echo 'passed';
 
 // Configuration option.
 // i.e. The standard subject will appear as, "You've been contacted by John Doe."
